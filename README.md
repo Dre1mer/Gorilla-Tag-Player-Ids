@@ -15,4 +15,4 @@
 | FIIZY (QUEST)  | 85AA513B8BD2D609   | ILLUSTRATOR   | None                                                    |
 | ELECTRONICWALL (STEAM) | 9B72392CE6DCE55E   | MODERATOR | [Steam](https://steamcommunity.com/profiles/76561198025286847) |
 
-</sub>more soon 🔥🔥</sub>
+more soon 🔥🔥
