@@ -4,7 +4,7 @@
 |---------------|--------------------|------|---------------------------------------------------------|
 | JUAN (QUEST)  | DAA0CA99F067734A   | FP   | None                                                    |
 | JUAN (STEAM)  | 49711FD5F83DE549   | FP   | [Steam](https://steamcommunity.com/profiles/76561199044613085) |
-| test          | test               | test | None                                                    |
-| test          | test               | test | None                                                    |
+| ZERDY (QUEST) | 3CF5A75B63F4CBCD   | FP | None                                                    |
+| STYLEDSNAIL (QUEST) | 1D6C2A5C6B419BFE   | ILLUSTRATOR | None                                                    |
 | test          | test               | test | None                                                    |
 
