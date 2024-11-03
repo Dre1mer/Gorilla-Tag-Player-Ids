@@ -7,5 +7,6 @@
 | ZERDY (QUEST) | 3CF5A75B63F4CBCD   | FP | None                                                    |
 | STYLEDSNAIL (QUEST) | 1D6C2A5C6B419BFE   | ILLUSTRATOR | None                                                    |
 | FAADUU (STEAM) | 1E8298E1E1F40CB2   | YOUTUBER | [Steam](https://steamcommunity.com/profiles/76561199141589632) |
-| MAXO (STEAM) | 1E8298E1E1F40CB2   | ILLUSTRATOR | [Steam](https://steamcommunity.com/profiles/76561199558496518) |
+| MAXO (STEAM) | BA6ED5EE863A42E0   | ILLUSTRATOR | [Steam](https://steamcommunity.com/profiles/76561199558496518) |
+| GORILLAVRGT (STEAM) | 20709A59CEA0CEB   | YOUTUBER | [Steam](https://steamcommunity.com/profiles/76561199179261637) |
 
