@@ -1,4 +1,4 @@
-# Gorilla-Tag-Player-Ids
+# Player Ids
 
 | Username      | Player Id          | Role | Steam Profile                                           |
 |---------------|--------------------|------|---------------------------------------------------------|
