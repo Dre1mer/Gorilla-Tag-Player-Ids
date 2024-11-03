@@ -2,8 +2,8 @@
 
 | Username    | Player Id | Role       |
 |-------------|-----------|------------|
-| JUAN (QUEST) | test    | FP         |
-| test     | test     | test  |
+| JUAN (QUEST) | DAA0CA99F067734A | FP         |
+| JUAN (STEAM)     |   49711FD5F83DE549   | FP  |
 | test     | test     | test     |
 | test     | test     | test      |
 | test     | test     | test     |
