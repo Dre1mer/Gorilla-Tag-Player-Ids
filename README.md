@@ -10,4 +10,5 @@
 | MAXO (STEAM) | BA6ED5EE863A42E0   | ILLUSTRATOR | [Steam](https://steamcommunity.com/profiles/76561199558496518) |
 | GORILLAVRGT (STEAM) | 20709A59CEA0CEB   | YOUTUBER | [Steam](https://steamcommunity.com/profiles/76561199179261637) |
 | MAJORA (STEAM) | 22B846B9F0FE312E   | FP | [Steam](https://steamcommunity.com/profiles/76561198023665736) |
+| RJTHESHADE (STEAM) | 9B72392CE6DCE55E   | MODERATOR | [Steam](https://steamcommunity.com/profiles/76561199013742885) |
 
